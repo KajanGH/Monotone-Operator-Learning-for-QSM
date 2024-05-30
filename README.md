@@ -2,6 +2,7 @@
 
 
 FINAL RESULTS 
+[Results obtained in patches and averaged]
 
 MOL:
 
